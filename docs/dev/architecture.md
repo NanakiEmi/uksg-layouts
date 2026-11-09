@@ -67,6 +67,7 @@ browser-side in `src/browser_shared/replicants.ts` (keep both in sync).
 | `layoutSettings` | dashboard; game-layout.ts resets | `celebrateFinish` (bool) and `overEstimate` (`off`/`diff`/`chip`). Both reset to off on run change. |
 | `layoutRotation` | image-rotation.ts | Which current-run incentive (if any) the game layout's image box shows instead of an image. |
 | `imageRotation` | image-rotation.ts | Current rotation image (asset checksum). |
+| `imageRotationSettings` | dashboard; image-rotation.ts syncs | `intervalSeconds` and ordered `items` `{ sum, enabled }`. image-rotation.ts drops deleted images and appends new ones (enabled, by file name). Only enabled images rotate. |
 | `assets:rotation-images` | NodeCG | Uploaded images (asset category "Rotation Images"). |
 | `gameLayouts` | graphic + dashboard + game-layout.ts | Available layouts (reported by the graphic) and the selected one. |
 | `capturePositions` | game layout graphic | Feed/camera positions for OBS. |

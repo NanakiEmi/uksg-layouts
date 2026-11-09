@@ -33,9 +33,12 @@ Panels are grouped into tabs ("workspaces") along the top:
 | UKSG | **Omnibar Settings** | Messages, milestones, rotation timings and donation colours. | [Omnibar](omnibar.md) |
 | UKSG | **Upcoming Run Control** | Correcting which run shows as "coming up next" on intermission. | [Intermission & more](intermission-and-more.md#upcoming-run-control) |
 | UKSG | **Countdown Control** | Setting the time the countdown counts down to. | [Intermission & more](intermission-and-more.md#countdown) |
+| admin | **Rotation Images** | Uploading, ordering and switching off rotating images, and how long each is shown. | [Intermission & more](intermission-and-more.md#rotating-images) |
+| admin | **UKSG Graphics** | Reloading open graphics (one or all) after an update. | |
+| admin | **Master Fader** | NodeCG's master sound volume. | |
 
-Images for the rotating image boxes are uploaded from the **Assets** button in the top right of the dashboard
-(see [Rotating images](intermission-and-more.md#rotating-images)).
+Images for the rotating image boxes are managed from the **Rotation Images** panel (admin tab), or uploaded from the
+**Assets** button in the top right of the dashboard (see [Rotating images](intermission-and-more.md#rotating-images)).
 
 ## Guides
 

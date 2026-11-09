@@ -153,5 +153,6 @@ These are set from the dashboard and stored in NodeCG's database (replicants), n
 - **Omnibar Settings**: messages, milestones, rotation timings, pin auto-release (seconds), donation colour tiers.
 - **Game Layout Control**: confetti and over-estimate mode. Both default to off and reset to off on every run change.
 - **Run Customisation**: content warning list, per-run warnings, badge/feed/accent overrides.
+- **Rotation Images** (admin): image order, on/off per image and the rotation interval (seconds).
 
 See the [user guide](../user/README.md) for what each does.

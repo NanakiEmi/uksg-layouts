@@ -127,6 +127,27 @@
         "file": "omnibar-settings/main.html",
         "width": 4,
         "workspace": "UKSG"
+      },
+      {
+        "name": "admin-uksg-graphics",
+        "title": "UKSG Graphics",
+        "file": "admin-graphics/main.html",
+        "width": 3,
+        "workspace": "admin"
+      },
+      {
+        "name": "admin-master-fader",
+        "title": "Master Fader",
+        "file": "admin-mixer/main.html",
+        "width": 3,
+        "workspace": "admin"
+      },
+      {
+        "name": "admin-rotation-images",
+        "title": "Rotation Images",
+        "file": "admin-assets/main.html",
+        "width": 3,
+        "workspace": "admin"
       }
     ],
     "graphics": [

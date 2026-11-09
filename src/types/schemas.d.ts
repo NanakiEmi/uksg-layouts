@@ -12,6 +12,7 @@ export type { DonationTotal } from './schemas/donationTotal.d.ts';
 export type { Foobar2000Data } from './schemas/foobar2000Data.d.ts';
 export type { GameLayouts } from './schemas/gameLayouts.d.ts';
 export type { ImageRotation } from './schemas/imageRotation.d.ts';
+export type { ImageRotationSettings } from './schemas/imageRotationSettings.d.ts';
 export type { LayoutRotation } from './schemas/layoutRotation.d.ts';
 export type { LayoutSettings } from './schemas/layoutSettings.d.ts';
 export type { Milestones } from './schemas/milestones.d.ts';

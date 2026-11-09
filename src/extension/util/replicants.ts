@@ -24,6 +24,7 @@ export const donationTotal = hasDefault<Schemas.DonationTotal>('donationTotal');
 export const foobar2000Data = hasDefault<Schemas.Foobar2000Data>('foobar2000Data');
 export const gameLayouts = hasDefault<Schemas.GameLayouts>('gameLayouts');
 export const imageRotation = hasDefault<Schemas.ImageRotation>('imageRotation');
+export const imageRotationSettings = hasDefault<Schemas.ImageRotationSettings>('imageRotationSettings');
 export const layoutRotation = hasDefault<Schemas.LayoutRotation>('layoutRotation');
 export const layoutSettings = hasDefault<Schemas.LayoutSettings>('layoutSettings');
 export const milestones = hasDefault<Schemas.Milestones>('milestones');

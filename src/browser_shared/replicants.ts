@@ -19,6 +19,7 @@ export const donationTotal = useReplicant<Schemas.DonationTotal>('donationTotal'
 export const foobar2000Data = useReplicant<Schemas.Foobar2000Data>('foobar2000Data', thisBundle);
 export const gameLayouts = useReplicant<Schemas.GameLayouts>('gameLayouts', thisBundle);
 export const imageRotation = useReplicant<Schemas.ImageRotation>('imageRotation', thisBundle);
+export const imageRotationSettings = useReplicant<Schemas.ImageRotationSettings>('imageRotationSettings', thisBundle);
 export const layoutRotation = useReplicant<Schemas.LayoutRotation>('layoutRotation', thisBundle);
 export const layoutSettings = useReplicant<Schemas.LayoutSettings>('layoutSettings', thisBundle);
 export const milestones = useReplicant<Schemas.Milestones>('milestones', thisBundle);

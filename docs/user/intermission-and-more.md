@@ -40,11 +40,17 @@ Runner names and pronouns come from the speedcontrol schedule, not this panel.
 ## Rotating images
 
 The image boxes on the game layouts and intermission rotate through uploaded images, e.g. sponsor logos and charity
-information, changing every 60 seconds.
+information, changing every 60 seconds by default.
 
-To manage them, press **Assets** in the top right of the dashboard and choose **Rotation Images**. Upload or delete
-images there (JPG, PNG, SVG, WebP or GIF). They're shown in order of file name, so name them `01-…`, `02-…` and so on to
-control the order.
+To manage them, use the **Rotation Images** panel in the admin tab. From there you can:
+
+- upload or delete images (JPG, PNG, SVG, WebP or GIF)
+- drag images to change the order they're shown in
+- switch an image off so it's skipped, without deleting it
+- change how many seconds each image is shown for (**Interval**)
+
+New images are added at the end, in order of file name, and start switched on. You can also upload or delete them from
+**Assets** in the top right of the dashboard (choose **Rotation Images**).
 
 On the game layouts, the image box also takes turns showing the current run's incentives (see
 [Runs & game layouts](runs-and-layouts.md#incentives-in-the-image-box)).
